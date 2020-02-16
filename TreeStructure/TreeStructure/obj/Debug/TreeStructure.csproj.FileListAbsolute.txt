@@ -1,0 +1,10 @@
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\bin\Debug\TreeStructure.exe.config
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\bin\Debug\TreeStructure.exe
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\bin\Debug\TreeStructure.pdb
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\obj\Debug\TreeStructure.csprojAssemblyReference.cache
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\obj\Debug\TreeStructure.Form1.resources
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\obj\Debug\TreeStructure.Properties.Resources.resources
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\obj\Debug\TreeStructure.csproj.GenerateResource.cache
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\obj\Debug\TreeStructure.csproj.CoreCompileInputs.cache
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\obj\Debug\TreeStructure.exe
+C:\Users\dum\source\repos\TreeStructure\TreeStructure\obj\Debug\TreeStructure.pdb
